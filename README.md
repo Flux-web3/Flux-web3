@@ -2,7 +2,7 @@
 
 ### Product Manager building at the intersection of Fintech, AI, Trading & Web3
 
-I'm a Product Manager with **4+ years of hands-on product management experience** and **7+ years of professional experience** across product, growth, operations, community management, and trading.
+I'm a Product Manager with **4+ years of hands-on product management experience** and **7+ years of professional experience** across product, growth, operations, community management, marketing, and trading.
 
 I enjoy turning complex problems into simple, scalable products and working closely with engineering, design, data, and business teams to take products from **idea → execution → launch → iteration**.
 
