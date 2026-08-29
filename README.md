@@ -6,6 +6,14 @@ I'm a Product Manager with **4+ years of hands-on product management experience*
 
 I enjoy turning complex problems into simple, scalable products and working closely with engineering, design, data, and business teams to take products from **idea → execution → launch → iteration**.
 
+### ⚡ Product + Technical
+
+**Product:** Strategy · Discovery · Roadmapping · Agile · Growth · Product Analytics
+
+**Technical:** APIs · SQL · AI/LLMs · Supabase · Vercel · GitHub · Data · Integrations
+
+**Domains:** Fintech · Payments · Trading · Web3 · AI · SaaS
+
 ---
 
 ## 🚀 What I'm Building
@@ -45,9 +53,21 @@ Key areas include:
 
 ## 🛠️ Tools & Technologies
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Product%20Management-0A0A0A?style=for-the-badge" alt="Product Management"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=for-the-badge" alt="AI & LLMs"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/MetaTrader%205-0A0A0A?style=for-the-badge" alt="MetaTrader 5"/>
+</p>
+
 **Product & Delivery**
 
-Jira · Notion · ClickUp · Trello · Slack
+Jira · Notion · ClickUp · Trello · Slack · Asana · Monday.com
 
 **Analytics & Data**
 
