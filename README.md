@@ -17,6 +17,8 @@ Product:
 - Notion
 - ClickUp
 - Trello
+- Asana
+- Monday.com
 
 Analytics:
 - SQL
