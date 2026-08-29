@@ -102,7 +102,3 @@ I'm open to opportunities with teams building products across **Fintech, AI, Web
 
 - **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
 - **X:** [@King_flux_](YOUR_X_URL)
-
----
-
-### Analyze. Test. Evolve.
