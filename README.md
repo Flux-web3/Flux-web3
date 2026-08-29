@@ -100,5 +100,5 @@ More product case studies, experiments, technical projects, and documentation wi
 
 I'm open to opportunities with teams building products across **Fintech, AI, Web3, Trading, and SaaS**.
 
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **X:** [@King_flux_](YOUR_X_URL)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/olanipekun-olamide-flux-939a34235)
+- **X:** [@King_flux_](https://x.com/King_flux_)
