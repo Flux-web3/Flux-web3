@@ -20,19 +20,20 @@ I enjoy turning complex problems into simple, scalable products and working clos
 
 ### FortaFlow
 
-A trading research and strategy platform designed to help traders **analyze, test, and evolve** their strategies.
+An AI-powered **strategy intelligence platform** that helps forex, crypto, futures, stock, and prop-firm traders move from subjective trading ideas to **measurable, testable, and continuously improving trading systems**. The central object is the strategy, not the trade.
+
+The core loop: **Define → Structure → Test → Stress → Understand (Strategy DNA) → Monitor → Alert → Execute → Journal → Compare → Learn → Improve**
 
 Key areas include:
 
-- AI-powered strategy building
-- Strategy backtesting
-- Statistical strategy analysis
-- Live market condition detection
-- Automated trade journaling
-- Strategy performance analytics
-- Continuous strategy improvement
+- AI Strategy Builder — plain-language strategy → explicit, machine-readable rules
+- Backtesting and strategy stress testing
+- Strategy DNA — the conditions where an edge actually exists
+- Live condition detection and smart alerts
+- Trading journal with backtest-vs-live comparison
+- Read-only broker import (cTrader, MT4/MT5)
 
-**Focus:** Fintech · Trading · AI · Data
+**Status:** in active development · **Focus:** Fintech · Trading · AI · Data
 
 ---
 
@@ -112,7 +113,18 @@ My approach combines **product strategy, analytics, experimentation, and executi
 
 ## 📂 Selected Work
 
-More product case studies, experiments, technical projects, and documentation will be added here as I build.
+### [Tourist](https://github.com/Flux-web3/Tourist-App) — AI travel companion · TS Academy capstone
+
+An AI-powered travel companion to help tourists plan, budget, discover, and organise a trip from one place instead of a stack of disconnected apps. I took it **independently, end to end**:
+
+- **Documentation** — the full product hub: vision, problem validation, research plan, PRD, MVP scope, roadmap, risk register, QA, and go-to-market
+- **Research** — a 27-question traveller survey (19 usable responses); 68% ranked building a trip around a fixed budget as the most valuable feature, which set a budget-first MVP
+- **Scoping** — P0/P1/P2 MVP scope and a build-ready P0 checklist
+- **Code** — a working prototype in React, TypeScript, and Vite with 37 test files, deployed on Vercel (sample data; itinerary drafts come from templates, not a live AI model)
+
+[Live prototype](https://tourist-app-blush.vercel.app/) · [Code](https://github.com/Flux-web3/Tourist-App)
+
+More case studies are on my [portfolio](https://portfolio-site-kappa-ashy.vercel.app).
 
 ---
 
@@ -120,5 +132,6 @@ More product case studies, experiments, technical projects, and documentation wi
 
 I'm open to opportunities with teams building products across **Fintech, AI, Web3, Trading, and SaaS**.
 
+- **Portfolio:** [portfolio-site-kappa-ashy.vercel.app](https://portfolio-site-kappa-ashy.vercel.app)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/olanipekun-olamide-flux-939a34235)
 - **X:** [@King_flux_](https://x.com/King_flux_)
