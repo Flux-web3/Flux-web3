@@ -1,137 +1,117 @@
-# Hi, I'm Olamide 👋
+# Olamide Olanipekun
 
-### Product Manager building at the intersection of Fintech, AI, Trading & Web3
+### Technical Product Manager | Product Strategy, Growth & Operations
 
-I'm a Product Manager with **4+ years of hands-on product management experience** and **7+ years of professional experience** across product, growth, operations, community management, marketing, and trading.
+I build and improve digital products by connecting **product strategy, execution, data, customer insight and technical delivery**.
 
-I enjoy turning complex problems into simple, scalable products and working closely with engineering, design, data, and business teams to take products from **idea → execution → launch → iteration**.
+I bring **4+ years of hands-on product management experience** and **7+ years of broader professional experience** across product and project management, operations, growth marketing, community management, customer experience and trading. I work across fintech, Web3, AI and SaaS, taking ideas from discovery and definition through prioritisation, delivery, launch and iteration.
 
-### ⚡ Product + Technical
-
-**Product:** Strategy · Discovery · Roadmapping · Agile · Growth · Product Analytics
-
-**Technical:** APIs · SQL · AI/LLMs · Supabase · Vercel · GitHub · Data · Integrations
-
-**Domains:** Fintech · Payments · Trading · Web3 · AI · SaaS
+My approach is product-led and technically hands-on: I work closely with engineering and design teams, use analytics to inform decisions, and use AI-assisted development tools to prototype and validate product ideas. I do not present that prototyping work as traditional software engineering.
 
 ---
 
-## 🚀 What I'm Building
+## Product & Technical Competencies
 
-### FortaFlow
+**Product strategy and delivery**
+- Product vision, strategy, discovery and lifecycle management
+- PRDs, requirements gathering, user stories and acceptance criteria
+- Roadmaps, prioritisation, backlog management and sprint planning
+- Agile delivery: Scrum, Kanban, Scrumban and Lean practices
+- Stakeholder management, cross-functional coordination and UAT
+- Prioritisation frameworks: RICE and MoSCoW
 
-An AI-powered **strategy intelligence platform** that helps forex, crypto, futures, stock, and prop-firm traders move from subjective trading ideas to **measurable, testable, and continuously improving trading systems**. The central object is the strategy, not the trade.
+**Growth, operations and customer experience**
+- Go-to-market planning, onboarding, activation and retention
+- User research, journey mapping, feedback loops and experimentation
+- Product-led and community-led growth
+- Customer support operations, service workflows and escalation
+- Process improvement, workflow design and automation
+- Community strategy, moderation and engagement
 
-The core loop: **Define → Structure → Test → Stress → Understand (Strategy DNA) → Monitor → Alert → Execute → Journal → Compare → Learn → Improve**
+**Product analytics and data**
+- SQL (**intermediate**) and PostgreSQL
+- Mixpanel, Amplitude and Dune Analytics
+- KPI tracking, OKRs and North Star Metrics
+- Funnel and product-performance analysis
+- Data-informed prioritisation and decision-making
 
-Key areas include:
-
-- AI Strategy Builder — plain-language strategy → explicit, machine-readable rules
-- Backtesting and strategy stress testing
-- Strategy DNA — the conditions where an edge actually exists
-- Live condition detection and smart alerts
-- Trading journal with backtest-vs-live comparison
-- Read-only broker import (cTrader, MT4/MT5)
-
-**Status:** in active development · **Focus:** Fintech · Trading · AI · Data
-
----
-
-## 🧠 Product Focus
-
-- Product Strategy & Roadmapping
-- Product Discovery
-- Agile Product Development
-- User Research
-- Product Analytics
-- Growth & Optimization
-- Technical Product Management
-- AI Product Development
-- Fintech & Payments
-- Trading Products
+**AI-assisted prototyping and technical collaboration**
+- Claude Code, Cursor, OpenCode, Lovable and Stitch
+- Figma for interface exploration and product collaboration
+- GitHub, Vercel and Supabase
+- Hands-on prototyping with React, TypeScript and Vite
+- API concepts, integrations and technical requirements
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Platforms
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Product%20Management-0A0A0A?style=for-the-badge" alt="Product Management"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=for-the-badge" alt="AI & LLMs"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/MetaTrader%205-0A0A0A?style=for-the-badge" alt="MetaTrader 5"/>
-</p>
+| Area | Tools |
+| --- | --- |
+| Product & delivery | Notion, Jira, Trello, ClickUp, Confluence, Asana, Monday.com, Slack |
+| Analytics & data | SQL, PostgreSQL, Mixpanel, Amplitude, Dune, Google Sheets |
+| AI & prototyping | Claude, Claude Code, ChatGPT, Cursor, OpenCode, Lovable, Stitch, Figma |
+| Automation & infrastructure | n8n, Zapier, GitHub, Vercel, Supabase |
+| Support & community | Zendesk, Discord, Telegram, Buffer, Canva, Typefully |
+| Trading & markets | MetaTrader 4/5, forex and crypto market workflows |
 
-**Product & Delivery**
-
-Jira · Notion · ClickUp · Trello · Slack · Asana · Monday.com
-
-**Analytics & Data**
-
-SQL · Mixpanel · Amplitude · Google Sheets
-
-**Design**
-
-Figma · Photoshop
-
-**Development & AI**
-
-GitHub · Vercel · Supabase · Claude · GPT · n8n
-
-**Trading**
-
-MetaTrader 5 · Forex · Crypto
+I use AI-assisted development to accelerate product exploration, build prototypes and test assumptions. My core discipline is **product management and delivery**: defining the right problem, making trade-offs explicit and aligning teams around measurable outcomes.
 
 ---
 
-## 📊 How I Think About Products
+## Domains
 
-I care about building products that are:
+**Fintech · Web3 · AI Products · SaaS · Trading Technology · Payments · Growth & Customer Experience**
 
-- **Useful** — solve a real user problem
-- **Simple** — reduce unnecessary complexity
-- **Data-driven** — measure what matters
-- **Scalable** — designed for growth
-- **Commercially viable** — create measurable business value
-
-My approach combines **product strategy, analytics, experimentation, and execution**.
+My trading-domain work includes forex and crypto workflows, strategy research, broker/platform requirements and MetaTrader environments.
 
 ---
 
-## 🌱 Currently Learning
+## Selected Work
 
-- Technical Product Management
-- Advanced SQL & Data Analytics
-- AI Product Development
-- Product Leadership
+### [FortaFlow — AI-assisted trading research](https://github.com/Flux-web3/fortaflow-preview)
+
+An AI-assisted trading research and strategy-analysis concept focused on helping traders turn subjective ideas into structured, testable rules.
+
+- Product direction includes strategy definition, backtesting, stress testing, strategy analysis and read-only broker-history imports.
+- The public repository is a **static portfolio preview**, not a live trading platform.
+- Dashboard values and charts in the preview are illustrative examples, not live market data, validated backtests or evidence of returns.
+
+### [Tourist — AI travel companion](https://github.com/Flux-web3/Tourist-App)
+
+An end-to-end product case study and working prototype for planning trips around budgets.
+
+- Defined the product direction, research plan, PRD, MVP scope, roadmap, risks and QA approach.
+- Used a 27-question traveller survey (19 usable responses) to prioritise a budget-first MVP.
+- Built a prototype with React, TypeScript and Vite; it uses sample data and template-based itinerary drafts rather than a live AI model.
+
+[Live prototype](https://tourist-app-blush.vercel.app/)
+
+### [Web3 Participation Loop](https://github.com/Flux-web3/web3-participation-loop)
+
+A product-owner assessment prototype modelling a measurable participation funnel, from acquisition and waitlist through review, qualification and business follow-up.
+
+- Built around a typed, append-only event log and explicit qualification rules.
+- Includes an operations dashboard and automated tests.
+- Uses synthetic assessment data only; it does not process real funds, issue rewards or execute mainnet transactions.
+
+[Live prototype](https://web3-participation-loop.vercel.app/)
 
 ---
 
-## 📂 Selected Work
+## How I Work
 
-### [Tourist](https://github.com/Flux-web3/Tourist-App) — AI travel companion · TS Academy capstone
-
-An AI-powered travel companion to help tourists plan, budget, discover, and organise a trip from one place instead of a stack of disconnected apps. I took it **independently, end to end**:
-
-- **Documentation** — the full product hub: vision, problem validation, research plan, PRD, MVP scope, roadmap, risk register, QA, and go-to-market
-- **Research** — a 27-question traveller survey (19 usable responses); 68% ranked building a trip around a fixed budget as the most valuable feature, which set a budget-first MVP
-- **Scoping** — P0/P1/P2 MVP scope and a build-ready P0 checklist
-- **Code** — a working prototype in React, TypeScript, and Vite with 37 test files, deployed on Vercel (sample data; itinerary drafts come from templates, not a live AI model)
-
-[Live prototype](https://tourist-app-blush.vercel.app/) · [Code](https://github.com/Flux-web3/Tourist-App)
-
-More case studies are on my [portfolio](https://portfolio-site-kappa-ashy.vercel.app).
+- **Problem first:** validate user and business needs before committing to a solution.
+- **Explicit trade-offs:** make scope, sequencing, risks and assumptions visible.
+- **Measure outcomes:** connect product work to activation, retention, adoption and operational performance.
+- **Build collaboratively:** translate between business goals, user needs, design and engineering.
+- **Iterate deliberately:** use research, feedback and evidence to improve what ships.
 
 ---
 
-## 🤝 Let's Connect
-
-I'm open to opportunities with teams building products across **Fintech, AI, Web3, Trading, and SaaS**.
+## Connect
 
 - **Portfolio:** [portfolio-site-kappa-ashy.vercel.app](https://portfolio-site-kappa-ashy.vercel.app)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/olanipekun-olamide-flux-939a34235)
+- **LinkedIn:** [Olamide Olanipekun](https://www.linkedin.com/in/olanipekun-olamide-flux-939a34235/)
 - **X:** [@King_flux_](https://x.com/King_flux_)
+- **Email:** [flux.fx05@gmail.com](mailto:flux.fx05@gmail.com)
