@@ -35,6 +35,15 @@ My approach is product-led and technically hands-on: I work closely with enginee
 - Funnel and product-performance analysis
 - Data-informed prioritisation and decision-making
 
+**Web3 platforms, wallets and on-chain products**
+- Centralised exchanges (CEXs) and decentralised exchanges (DEXs)
+- Self-custody / non-custodial and custodial wallet models
+- Wallet connection, signing, network and account-authorization flows
+- DeFi protocols, swap aggregators, cross-chain bridges and token ecosystems
+- NFT platforms, on-chain interactions and Web3 community ecosystems
+- Airdrop, quest, campaign and ecosystem-participation workflows
+- User onboarding, transaction journeys, liquidity and trading-product concepts
+
 **AI-assisted prototyping and technical collaboration**
 - Claude Code, Cursor, OpenCode, Lovable and Stitch
 - Figma for interface exploration and product collaboration
@@ -53,6 +62,7 @@ My approach is product-led and technically hands-on: I work closely with enginee
 | AI & prototyping | Claude, Claude Code, ChatGPT, Cursor, OpenCode, Lovable, Stitch, Figma |
 | Automation & infrastructure | n8n, Zapier, GitHub, Vercel, Supabase |
 | Support & community | Zendesk, Discord, Telegram, Buffer, Canva, Typefully |
+| Web3 & blockchain | Wallets, wallet-connect flows, CEXs, DEXs, DeFi, swap aggregators, bridges, NFT and token platforms |
 | Trading & markets | MetaTrader 4/5, forex and crypto market workflows |
 
 I use AI-assisted development to accelerate product exploration, build prototypes and test assumptions. My core discipline is **product management and delivery**: defining the right problem, making trade-offs explicit and aligning teams around measurable outcomes.
@@ -61,7 +71,7 @@ I use AI-assisted development to accelerate product exploration, build prototype
 
 ## Domains
 
-**Fintech · Web3 · AI Products · SaaS · Trading Technology · Payments · Growth & Customer Experience**
+**Fintech · Web3 · CEX & DEX Platforms · Wallets · DeFi · AI Products · SaaS · Trading Technology · Payments · Growth & Customer Experience**
 
 My trading-domain work includes forex and crypto workflows, strategy research, broker/platform requirements and MetaTrader environments.
 
