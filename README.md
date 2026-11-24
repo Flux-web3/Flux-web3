@@ -6,7 +6,7 @@ I build and improve digital products by connecting **product strategy, execution
 
 I bring **4+ years of hands-on product management experience** and **7+ years of broader professional experience** across product and project management, operations, growth marketing, community management, customer experience and trading. I work across fintech, Web3, AI and SaaS, taking ideas from discovery and definition through prioritisation, delivery, launch and iteration.
 
-My approach is product-led and technically hands-on: I work closely with engineering and design teams, use analytics to inform decisions, and use AI-assisted development tools to prototype and validate product ideas. I do not present that prototyping work as traditional software engineering.
+My approach is product-led and technically hands-on: I work closely with engineering and design teams, use analytics to inform decisions, and use AI-assisted development tools to prototype, test assumptions and communicate technical intent while collaborating with engineering teams on production implementation.
 
 ---
 
