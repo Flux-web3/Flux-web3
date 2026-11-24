@@ -123,5 +123,5 @@ A product-owner assessment prototype modelling a measurable participation funnel
 
 - **Portfolio:** [portfolio-site-kappa-ashy.vercel.app](https://portfolio-site-kappa-ashy.vercel.app)
 - **LinkedIn:** [Olamide Olanipekun](https://www.linkedin.com/in/olanipekun-olamide-flux-939a34235/)
-- **X:** [@King_flux_](https://x.com/King_flux_)
+- **Telegram:** [@king_flux](https://t.me/king_flux)
 - **Email:** [flux.fx05@gmail.com](mailto:flux.fx05@gmail.com)
